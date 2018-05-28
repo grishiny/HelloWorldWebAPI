@@ -1,0 +1,38 @@
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.exe.config
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.exe
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.pdb
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\RestSharp.dll
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\obj\Debug\HelloWorld.ConsoleApp.exe
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\obj\Debug\HelloWorld.ConsoleApp.pdb
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\Data\HelloWorldData.txt
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.Library.dll
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\LightInject.dll
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\log4net.dll
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\System.Web.Http.dll
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.Library.pdb
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\log4net.xml
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\System.Web.Http.xml
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\a0737252\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.ConsoleApp\obj\Debug\HelloWorld.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.exe.config
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\obj\Debug\HelloWorld.ConsoleApp.exe
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\obj\Debug\HelloWorld.ConsoleApp.pdb
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\Data\HelloWorldData.txt
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.exe
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.pdb
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.Library.dll
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\LightInject.dll
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\RestSharp.dll
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\log4net.dll
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\System.Web.Http.dll
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.Library.pdb
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\log4net.xml
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\System.Web.Http.xml
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\A0689628\Nivee_schoolDoc\HelloWorld\HelloWorld\HelloWorld.ConsoleApp\obj\Debug\HelloWorld.ConsoleApp.csprojResolveAssemblyReference.cache
