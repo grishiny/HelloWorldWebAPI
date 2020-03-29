@@ -109,31 +109,6 @@ namespace HelloWorld.API.UnitTest
         /// <summary>
         ///     Tests the class's GetHelloWorldData method for success when normal data was found
         /// </summary>
-        [Test]
-        public void UnitTestHelloWorldConsoleAppRunNormalDataSuccess()
-        {
-            // Create return models for dependencies
-            const string Data = "Hello World!";
-            const string WebApiIUrl = "http://www.somesiteheretesting.com";
-            var uri = new Uri(WebApiIUrl);
-            var mockParameters = new Mock<List<Parameter>>();
-            var mockRestResponse = new Mock<IRestResponse<HelloWorldData>>();
-            var helloWorldData = GetSampleHelloWorldData(Data);
-
-            // Set up dependencies
-            this.appSettingsMock.Setup(m => m.Get(AppSettingsKeys.HelloWorldApiUrlKey)).Returns(WebApiIUrl);
-            this.uriServiceMock.Setup(m => m.GetUri(WebApiIUrl)).Returns(uri);
-            this.restRequestMock.Setup(m => m.Parameters).Returns(mockParameters.Object);
-            this.restClientMock.Setup(m => m.Execute<HelloWorldData>(It.IsAny<IRestRequest>())).Returns(mockRestResponse.Object);
-            mockRestResponse.Setup(m => m.Data).Returns(helloWorldData);
-
-            // Call the method to test
-            var response = this.helleHelloWorldWebService.GetHelloWorldData();
-
-            // Check values
-            Assert.NotNull(response);
-            Assert.AreEqual(response.Data, helloWorldData.Data);
-        }
 
         /// <summary>
         ///     Tests the class's GetHelloWorldData method for success when there is a null response

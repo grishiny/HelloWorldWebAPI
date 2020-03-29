@@ -77,46 +77,6 @@ namespace HelloWorld.API.UnitTest
             this.otherPropertiesList.Clear();
         }
 
-        #region Run Tests
-        /// <summary>
-        ///     Tests the class's Run method for success when normal data was found
-        /// </summary>
-        [Test]
-        public void UnitTestHelloWorldConsoleAppRunNormalDataSuccess()
-        {
-            const string Data = "Hello World!";
-
-            // Create return models for dependencies
-            var helloWorldData = GetSampleHelloWorldData(Data);
-
-            // Set up dependencies
-            this.helloWorldWebServiceMock.Setup(m => m.GetHelloWorldData()).Returns(helloWorldData);
-
-            // Call the method to test
-            this.helloWorldConsoleApp.Run(null);
-
-            // Check values
-            Assert.AreEqual(this.logMessageList.Count, 1);
-            Assert.AreEqual(this.logMessageList[0], Data);
-        }
-
-        /// <summary>
-        ///     Tests the class's Run method for success when null data was found
-        /// </summary>
-        [Test]
-        public void UnitTestHelloWorldConsoleAppRunNullDataSuccess()
-        {
-            // Set up dependencies
-            this.helloWorldWebServiceMock.Setup(m => m.GetHelloWorldData()).Returns((HelloWorldData)null);
-
-            // Call the method to test
-            this.helloWorldConsoleApp.Run(null);
-
-            // Check values
-            Assert.AreEqual(this.logMessageList.Count, 1);
-            Assert.AreEqual(this.logMessageList[0], "No data was found!");
-        }
-        #endregion
 
         #region Helper Methods
         /// <summary>
