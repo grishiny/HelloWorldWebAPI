@@ -34,7 +34,7 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: PublishBuildArtifacts@3
+- task: PublishPipelineArtifact@1
   inputs:
-    command: pack
-    packagesToPack: '**/*.csproj'
+    path: $(System.DefaultWorkingDirectory)/bin/WebApp
+    artifact: WebApp
