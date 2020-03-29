@@ -36,5 +36,5 @@ steps:
 
 - task: PublishPipelineArtifact@1
   inputs:
-    path: $(System.DefaultWorkingDirectory)/bin/Release
+    path: $(System.DefaultWorkingDirectory)/*/bin/Release
     artifact: WebApp
