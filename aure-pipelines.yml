@@ -36,5 +36,8 @@ steps:
 
 - task: PublishPipelineArtifact@1
   inputs:
-    path: $(build.artifactStagingDirectory)\WebApp.zip
+    targetPath: '$(build.artifactStagingDirectory)\WebApp.zip'
+    artifact: 'HelloWorld'
+    publishLocation: 'pipeline'
     artifact: WebApp
+
