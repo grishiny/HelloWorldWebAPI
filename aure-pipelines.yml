@@ -39,5 +39,4 @@ steps:
     targetPath: '$(build.artifactStagingDirectory)\WebApp.zip'
     artifact: 'HelloWorld'
     publishLocation: 'pipeline'
-    artifact: WebApp
 
